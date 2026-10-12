@@ -118,6 +118,3 @@ The IP addresses above are documentation examples, not real data.
 ## Purpose
  
 Created as part of coursework for a Cybercrime and IT Security degree at South East Technological University (SETU), to practise log analysis and the detection of brute force attacks.
- 
-
-Claude finished the response
